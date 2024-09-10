@@ -18,8 +18,22 @@ Users can also manage their profiles and securely update personal information. T
 **Industry** : Lifestyle and Technology
 
 ## **Azure Services Used**
+
+
 **1. Azure App Service**:
+
+
 Deployed the front-end (html,css,js) for user interaction & backend (Django) .
 
 2. **Azure Database for PostgreSQL servers**:
+
+
 It is used for creating PostgreSQL database to storing and managing car data.
+
+## **Screenshots**
+
+### **Azure App Service**
+**Description :**
+Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.
+![Screenshot (120)](https://github.com/user-attachments/assets/9f40d3ab-da4b-409f-b9ce-dfa0bbdf304a)
+
