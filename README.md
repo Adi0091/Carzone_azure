@@ -7,8 +7,14 @@ Users can also manage their profiles and securely update personal information. T
 
 ## **Project Details**
 **Project Demo URL** : [https://moneymanager1.azurewebsites.net/](https://carzone-fzcvd2dmgcb0ckgr.centralindia-01.azurewebsites.net/)
+
+
 **Demo Video URL** :https://drive.google.com/file/d/1mgQWpe8oup-WI_9K5HWiFc3cGV0fw8or/view?usp=sharing
+
+
 **Github Repository URL** : [https://github.com/Dipalisabde/Money_manager/](https://github.com/Adi0091/Carzone_azure)
+
+
 **Industry** : Lifestyle and Technology
 
 ## **Azure Services Used**
