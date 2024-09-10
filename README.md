@@ -37,3 +37,20 @@ It is used for creating PostgreSQL database to storing and managing car data.
 Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.
 ![Screenshot (120)](https://github.com/user-attachments/assets/9f40d3ab-da4b-409f-b9ce-dfa0bbdf304a)
 
+### **Azure Databse for PostgreSQL**
+**Description :**
+The project utilizes Azure Database for PostgreSQL to efficiently manage and store user interaction history. This fully managed relational database service ensures high availability, data consistency, and scalability while supporting fast retrieval of information. With built-in features like automated backups, point-in-time restore, and security compliance, it provides a reliable backend for storing structured data and handling complex queries.
+
+![Screenshot (121)](https://github.com/user-attachments/assets/00f6efee-c123-4c44-a255-d628a89fe645)
+
+#### **Working Live Project Display**
+**Description :**
+Here I am attaching the final working website's screenshot for the reference.
+
+![Screenshot (122)](https://github.com/user-attachments/assets/ddd3a000-6b4f-49a3-8cfc-e7db3835cc41)
+
+
+![Screenshot (123)](https://github.com/user-attachments/assets/5beff5e1-1cf6-4ba5-9333-bdb1d5f15e95)
+
+
+
