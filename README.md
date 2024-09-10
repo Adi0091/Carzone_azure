@@ -1,56 +1,42 @@
-# **CarZone**
+CarZone
+The CarZone project is a comprehensive and user-friendly platform designed to offer users a seamless car browsing, buying, and management experience. It allows users to explore various car models, filter them based on preferences, and gather detailed information about each car. With integrated user-friendly features, the platform enhances the car-buying journey by providing tools for comparing different vehicles and managing purchase histories.
 
-the Car Zone Project, the main purpose of the application is to offer users a seamless platform for browsing, buying, and managing cars. It allows users to explore a variety of car options, filter them based on preferences, and gather detailed information about each model. By integrating user-friendly features, the application enhances the car-buying experience.
-Users can also manage their profiles and securely update personal information. The platform ensures a smooth interaction with features like browsing based on car models, comparing different vehicles, and even managing past purchase histories. The focus on user security is maintained with options to change passwords and securely store data, providing a trustworthy environment.
+The application also emphasizes user security, allowing users to manage profiles, securely update personal information, and ensure data privacy through password management and secure data storage.
 
-## **Project Title:** [CarZone](https://carzone-fzcvd2dmgcb0ckgr.centralindia-01.azurewebsites.net/)
+Project Title: CarZone
+Project Details
+Project Demo URL : https://carzone-fzcvd2dmgcb0ckgr.centralindia-01.azurewebsites.net/
 
-## **Project Details**
-**Project Demo URL** : [https://moneymanager1.azurewebsites.net/](https://carzone-fzcvd2dmgcb0ckgr.centralindia-01.azurewebsites.net/)
+Demo Video URL : https://drive.google.com/file/d/1mgQWpe8oup-WI_9K5HWiFc3cGV0fw8or/view?usp=sharing
 
+Github Repository URL : https://github.com/Adi0091/Carzone_azure
 
-**Demo Video URL** :https://drive.google.com/file/d/1mgQWpe8oup-WI_9K5HWiFc3cGV0fw8or/view?usp=sharing
+Industry : Lifestyle and Technology
 
+Azure Services Used
+Azure App Service: The application uses Azure App Service to deploy the front-end (HTML, CSS, JavaScript) for user interaction and the backend (Django) for managing car listings, user data, and transactions. Azure App Service provides a scalable and reliable hosting environment to ensure the app's high availability.
 
-**Github Repository URL** : [https://github.com/Dipalisabde/Money_manager/](https://github.com/Adi0091/Carzone_azure)
+Azure Database for PostgreSQL: This service is used to manage and store car data, user profiles, and transaction history. Azure Database for PostgreSQL ensures high availability, data consistency, and quick retrieval of information, supporting secure and efficient data management for the application.
 
-
-**Industry** : Lifestyle and Technology
-
-## **Azure Services Used**
-
-
-**1. Azure App Service**:
-
-
-Deployed the front-end (html,css,js) for user interaction & backend (Django) .
-
-2. **Azure Database for PostgreSQL servers**:
-
-
-It is used for creating PostgreSQL database to storing and managing car data.
-
-## **Screenshots**
-
-### **Azure App Service**
-**Description :**
-Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.
-![Screenshot (120)](https://github.com/user-attachments/assets/9f40d3ab-da4b-409f-b9ce-dfa0bbdf304a)
-
-### **Azure Databse for PostgreSQL**
-**Description :**
-The project utilizes Azure Database for PostgreSQL to efficiently manage and store user interaction history. This fully managed relational database service ensures high availability, data consistency, and scalability while supporting fast retrieval of information. With built-in features like automated backups, point-in-time restore, and security compliance, it provides a reliable backend for storing structured data and handling complex queries.
-
-![Screenshot (121)](https://github.com/user-attachments/assets/00f6efee-c123-4c44-a255-d628a89fe645)
-
-#### **Working Live Project Display**
-**Description :**
-Here I am attaching the final working website's screenshot for the reference.
-
-![Screenshot (122)](https://github.com/user-attachments/assets/ddd3a000-6b4f-49a3-8cfc-e7db3835cc41)
-
-
-![Screenshot (123)](https://github.com/user-attachments/assets/5beff5e1-1cf6-4ba5-9333-bdb1d5f15e95)
+Screenshots
+Azure App Service
+Description:
+Azure App Service provides a scalable and reliable hosting environment for CarZone. It ensures seamless deployment, high availability, and offers an optimal user experience.
 
 
 
+Azure Database for PostgreSQL
+Description:
+Azure Database for PostgreSQL efficiently manages and stores user interaction history and car data. This relational database service ensures high availability, data consistency, and fast retrieval of information, supporting secure and scalable database management for CarZone.
+
+
+
+Working Live Project Display
+Description:
+Below are screenshots from the live version of the CarZone project, demonstrating the smooth user experience and features.
+
+
+
+
+
+This version provides a detailed overview of your CarZone project in a structured format suitable for
