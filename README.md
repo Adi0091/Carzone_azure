@@ -9,7 +9,7 @@ The application also emphasizes user security, allowing users to manage profiles
 ## **Project Details**
 **Project Demo URL** : [https://carzone-fzcvd2dmgcb0ckgr.centralindia-01.azurewebsites.net/](https://carzone-fzcvd2dmgcb0ckgr.centralindia-01.azurewebsites.net/)
 
-**Demo Video URL** : [https://drive.google.com/file/d/1mgQWpe8oup-WI_9K5HWiFc3cGV0fw8or/view?usp=sharing](https://drive.google.com/file/d/1mgQWpe8oup-WI_9K5HWiFc3cGV0fw8or/view?usp=sharing)
+**Demo Video URL** : [https://drive.google.com/file/d/1mgQWpe8oup-WI_9K5HWiFc3cGV0fw8or/view?usp=sharing](https://drive.google.com/file/d/1I6Fjdad6gNLsIffUgjs4CBXT8Mdwc2y3/view?usp=sharing)
 
 **Github Repository URL** : [https://github.com/Adi0091/Carzone_azure](https://github.com/Adi0091/Carzone_azure)
 
